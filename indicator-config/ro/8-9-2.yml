@@ -24,7 +24,7 @@ graph_title: national_indicators.8-9-2-graph
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.8-9-2-title
-indicator_number: 2.1.2
+indicator_number: 8.9.2
 indicator_tabs:: 
   override: false
   tab_1: ''
